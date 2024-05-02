@@ -13,7 +13,7 @@ A visual question answering based model helping in segregation of  question answ
     
     : The proposed model was able to achieve an accuracy of 72-75% on the classification labels (the top 10 most frequent answers in the dataset).
 
-#### Our whole approach regarding the model : 
+###  Our whole approach regarding the model  [PDF FORMAT ](Visual_Question_Answering.pdf) 
 
     
 
