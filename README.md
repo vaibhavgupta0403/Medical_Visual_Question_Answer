@@ -1,4 +1,4 @@
-# Visual_Question_Anwer
+# Visual_Question_Answer
 A visual question answering based model helping in segregation of  question answers based on different medical images as input.
 
 ## Technologies and Frameworks used : 
