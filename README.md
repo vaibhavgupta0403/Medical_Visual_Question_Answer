@@ -1,5 +1,5 @@
-# Visual_Question_Answer
-A visual question answering based model helping in segregation of  question answers based on different medical images as input.
+# Medical_Visual_Question_Answer
+A visual question answering based model helping in segregation of  question answers based on different medical images taken as input.
 
 ## Technologies and Frameworks used : 
 
